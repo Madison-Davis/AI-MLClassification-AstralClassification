@@ -1,9 +1,9 @@
 # Classification
 # Part 1: Binary-Classification on Consumer Prediction
 See code for implementation
-# Part 2: Multi-Classification on Astral Figures
+# Part 2: Multi-Imbalance Classification on Perovstrike Oxide Structures 
 See code for implementation
-# Part 3: Multi-Imbalance Classification on Perovstrike Oxide Structures
+# Part 3: Multi-Classification on Astral Figures
 See code for implementation
 More details shown below:
 Results:
