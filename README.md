@@ -1,5 +1,14 @@
-# Personal-MachineLearning-Classification-AstralClassification
+# Classification
+# Part 1: Binary-Classification on Consumer Prediction
+# Part 2: Multi-Classification on Astral Figures
+# Part 3: Multi-Imbalance Classification on Perovstrike Oxide Structures
 
+
+.
+.
+.
+
+# Part 3 Deep-Dive
 
 Results:
 - 100% = Random Forest Classifier
