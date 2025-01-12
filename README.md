@@ -1,20 +1,15 @@
 # Classification
 # Part 1: Binary-Classification on Consumer Prediction
+See code for implementation
 # Part 2: Multi-Classification on Astral Figures
+See code for implementation
 # Part 3: Multi-Imbalance Classification on Perovstrike Oxide Structures
-
-
-.
-.
-.
-
-# Part 3 Deep-Dive
-
+See code for implementation
+More details shown below:
 Results:
 - 100% = Random Forest Classifier
 - 94% = Logistic Regression Classifier
 - 92% = SVM Classifier
-
 
 Kaggle Description:
 Dataset found on Kaggle: https://www.kaggle.com/datasets/deepu1109/star-dataset
